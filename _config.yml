@@ -1,1 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
+title: My Jeedom plugins
+plugins:
+  - jekyll-multiple-languages-plugin
