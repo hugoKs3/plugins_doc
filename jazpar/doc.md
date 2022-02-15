@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documentation
+parent: Jazpar
 nav_order: 1
 ---
 

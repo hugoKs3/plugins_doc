@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Change Log
+parent: Jazpar
 nav_order: 2
 ---
 

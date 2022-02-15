@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Documentation
+title: Change Log
+parent: Brother
 nav_order: 2
 ---
 
