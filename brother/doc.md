@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documentation
+parent: Brother
 nav_order: 1
 ---
 
