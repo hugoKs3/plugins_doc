@@ -1,3 +1,9 @@
+---
+layout: default
+title: Documentation
+nav_order: 1
+---
+
 # Brother
 
 Plugin récupérant les informations de votre imprimante connectée Brother en utlisant le protocole SNMP.

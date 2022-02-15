@@ -1,3 +1,9 @@
+---
+layout: default
+title: Documentation
+nav_order: 1
+---
+
 # Plugin GRDF Gazpar
 
 Plugin permettant la récupération des consommations du compteur communicant *Gazpar* par l'interrogation du compte-client *GRDF*. Les données n'étant pas mises à disposition en temps réel, le plugin récupère chaque jour les données de consommation de gaz de la veille. 
